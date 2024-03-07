@@ -5,20 +5,9 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: #1a0321;
+    background: black;
     font-family:consolas;
 }
-.container {
-  text-align: center;
-}
-
-.round-image {
-  width: 150px; /* Ajusta el tamaño de la imagen según tus necesidades */
-  height: 150px;
-  border-radius: 50%;
-  margin-bottom: 20px;
-}
-
 .btn-neon{
     position: relative;
     display: inline-block;
@@ -85,4 +74,16 @@ body{
     bottom: 100%;
     transition: 1s;
     transition-delay: 0.75s;
+}
+.container {
+  text-align: center;
+}
+
+.round-image {
+    position: relative;
+    left: 30px;
+  width: 250px; /* Ajusta el tamaño de la imagen según tus necesidades */
+  height: 250px;
+  border-radius: 50%;
+  margin-bottom: 20px;
 }
