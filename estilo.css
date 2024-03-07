@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f0f0f0; /* Cambia el color de fondo según tus preferencias */
+}
+
+.container {
+  text-align: center;
+}
+
+.round-image {
+  width: 150px; /* Ajusta el tamaño de la imagen según tus necesidades */
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.neon-button {
+  background-color: #00ff00; /* Cambia el color del fondo del botón de neón */
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 255, 0, 0.8); /* Efecto de neón */
+}
+
+.neon-button:hover {
+  background-color: #ff00ff; /* Cambia el color al pasar el ratón sobre el botón */
+}
