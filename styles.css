@@ -4,7 +4,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #f0f0f0; /* Cambia el color de fondo según tus preferencias */
+  background-color: Black; /* Cambia el color de fondo según tus preferencias */
 }
 
 .container {
@@ -19,8 +19,8 @@ body {
 }
 
 .neon-button {
-  background-color: #00ff00; /* Cambia el color del fondo del botón de neón */
-  color: #fff;
+  background-color: purple; /* Cambia el color del fondo del botón de neón */
+  color:White;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
