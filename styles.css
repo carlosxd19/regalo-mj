@@ -4,7 +4,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: Black; /* Cambia el color de fondo según tus preferencias */
+  background-color: black; /* Cambia el color de fondo según tus preferencias */
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
 
 .neon-button {
   background-color: purple; /* Cambia el color del fondo del botón de neón */
-  color:White;
+  color:white;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
@@ -30,5 +30,5 @@ body {
 }
 
 .neon-button:hover {
-  background-color: #ff00ff; /* Cambia el color al pasar el ratón sobre el botón */
+  background-color: purple; /* Cambia el color al pasar el ratón sobre el botón */
 }
